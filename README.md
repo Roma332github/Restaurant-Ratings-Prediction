@@ -1,4 +1,4 @@
-Introduction to Restaurant Ratings Prediction Project 🍽️📊
+# Introduction to Restaurant Ratings Prediction Project 🍽️📊
 In the dynamic world , predicting restaurant ratings has become a pivotal application of machine learning (ML). The ability to foresee customer satisfaction not only empowers restaurateurs to enhance service quality but also assists food enthusiasts in making informed dining choices. This project aims to leverage advanced ML techniques to predict restaurant ratings based on a diverse set of featuresbehind great dining experiences!
 Objective 🎯
 The primary objective of this project is to build a robust predictive model that accurately forecasts restaurant ratings. By analyzing various factors such as cuisine type, location, pricing, customer reviews, and service quality, Let's see the various steps involved in this:
